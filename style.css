@@ -1,0 +1,67 @@
+.banner-card {
+  position: relative;
+}
+
+.banner-card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.banner-text {
+  position: absolute;
+  top: 20%;
+  color: whitesmoke;
+  padding: 50px;
+}
+
+.banner-text h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 80px;
+}
+
+.banner-text h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  padding-left: 1.5rem;
+}
+.banner-text img {
+  top: 10%;
+}
+
+.media-link img {
+  border-radius: 20px;
+}
+
+.media-text {
+  background-color: #111;
+  border-radius: 20px;
+  padding-bottom: 12px;
+}
+
+.media-text h1 {
+  color: white;
+  letter-spacing: 0.5rem;
+}
+
+.media-text p {
+  color: white;
+  line-height: 0.5rem;
+}
+
+.card {
+  padding-left: 2rem;
+}
+
+.end-media {
+  background-color: #111;
+  padding-bottom: 5px;
+  border-radius: 20px;
+}
+
+.end-media h1 {
+  color: bisque;
+}
+
+.end-media p {
+  color: bisque;
+}
